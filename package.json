@@ -1,0 +1,15 @@
+{
+  "name": "the-weather-app",
+  "version": "1.0.0",
+  "description": "this is a simple pwa application",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^8.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "orama254",
+  "license": "MIT"
+}
